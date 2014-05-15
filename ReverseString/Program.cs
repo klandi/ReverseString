@@ -10,7 +10,8 @@ namespace ReverseString
         //Reversing a string without creating a new string object
         //just as a proof of concept
         static void Main(string[] args)
-        {   
+        {
+            Console.WriteLine("Reverse A String\n\n");
             string myStr = "one two three";
             
             Console.WriteLine("Sample Input: {0}", myStr);
