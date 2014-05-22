@@ -12,6 +12,8 @@ namespace ReverseString
         static void Main(string[] args)
         {
             Console.WriteLine("Reverse A String\n\n");
+            Console.WriteLine("Created By Kevinski");
+
             string myStr = "one two three";
             
             Console.WriteLine("Sample Input: {0}", myStr);
