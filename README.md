@@ -1,4 +1,4 @@
-ReverseString
+ReverseString is awesome!
 =============
 
 Reversing a string
